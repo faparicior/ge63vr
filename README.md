@@ -1,4 +1,4 @@
-## Debian instructions, adapted from (https://github.com/calebj/ge63vr-solutions)
+## Debian MSI GE63VR instructions, adapted from (https://github.com/calebj/ge63vr-solutions)
 1. Added virtual screens to i915 xorg.conf.d
 2. Changed bumblebee xorg.conf.nvidia to use EDID and outputs
 3. Added `acpi_osi=! acpi_osi="!Windows 2009" pcie_port_pm=off` to kernel command line
