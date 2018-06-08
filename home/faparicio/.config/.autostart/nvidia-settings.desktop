@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Exec=intel-virtual-output
+Hidden=false
+X-GNOME-Autostart-enabled=true
+Name=nvidia-hdmi
+Comment=nvidia hdmi-displayPort
